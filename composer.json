@@ -1,6 +1,10 @@
 {
     "name": "lukzgois/repository",
-    "description": "",
+    "type" : "library",
+    "description" : "A simple repository architecture for Laravel.",
+    "keywords" : ["laravel", "repository"],
+    "homepage" : "https://github.com/lukzgois/repository",
+    "license" : "MIT",
     "authors": [
         {
             "name": "Lucas Padilha Gois",
